@@ -1,0 +1,19 @@
+{
+  "name": "truelight",
+  "version": "1.0.0",
+  "description": "Frontend admin template",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrigm/truelight.git"
+  },
+  "author": "Adrián Guerra Marrero",
+  "license": "SEE LICENSE IN license.txt",
+  "bugs": {
+    "url": "https://github.com/adrigm/truelight/issues"
+  },
+  "homepage": "https://github.com/adrigm/truelight#readme"
+}
