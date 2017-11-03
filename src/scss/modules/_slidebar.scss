@@ -1,0 +1,12 @@
+.tl-slidebar {
+    position: fixed;
+    //z-index: 2;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: $slidebar-size;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 20px rgba(215,222,227,.4), 0 24px 59px rgba(51,59,69,.15);
+    animation-fill-mode: backwards;
+}
